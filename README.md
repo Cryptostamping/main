@@ -9,9 +9,9 @@ Thanks to the blockchain technology, all this is made possible now. Join us in b
 
 - **ECS_Standard** -> [Respository](https://github.com/Cryptostamping/ECS_Standard) detailing ECS `Ethereum Cryptostamping Standard` which is the primary way for a smart contract to be stamping enabled.
 
-- **Embed Widget** -> [Respository](https://github.com/Cryptostamping/publish-extension) detailing browser extension for Cryptostamping.
+- **Browser Extension** -> [Respository](https://github.com/Cryptostamping/publish-extension) detailing browser extension for Cryptostamping.
 
-- **Browser Extension** -> [Respository]() detailing embed widget for Cryptostamping.
+- **Embed Widgetgith** -> [Respository](https://github.com/Cryptostamping/publish-embed) detailing embed widget for Cryptostamping.
 
 
 ### Issues
